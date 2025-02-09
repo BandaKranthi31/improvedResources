@@ -1,4 +1,4 @@
-=# Tips and Tricks to Remember
+# Tips and Tricks to Remember
 
 - **Async programming** lets you multitask without blocking the rest of your code.
 - **Event loop** ensures that JavaScript keeps running tasks one after another and doesn't get stuck.
